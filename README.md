@@ -1,3 +1,4 @@
+
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
@@ -155,3 +156,10 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+
+# INFORMATION  #
+
+    Name: Pattanachai nuyamang
+
+    Student ID: 642115027
+
